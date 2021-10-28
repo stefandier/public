@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'BundesSerif Web';
-    src: url('https/github.com/stefandier/public/BundesSerifWeb-BoldItalic.ttf') format('truetype');
+    src: url('https://github.com/stefandier/public/blob/main/BundesSerifWeb-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'BundesSerif Web';
-    src: url('https/github.com/stefandier/public/BundesSerifWeb.ttf') format('truetype');
+    src: url('https://github.com/stefandier/public/blob/main/BundesSerifWeb-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'BundesSerif Web';
-    src: url('https/github.com/stefandier/public/BundesSerifWeb-Italic.ttf') format('truetype');
+    src: url('https://github.com/stefandier/public/blob/main/BundesSerifWeb-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: 'BundesSerif Web';
-    src: url('https/github.com/stefandier/public/BundesSerifWeb-Bold.ttf') format('truetype');
+    src: url('https://github.com/stefandier/public/blob/main/BundesSerifWeb-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;

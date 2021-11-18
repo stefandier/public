@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "bundessansweb";
+  src: url('https://www.zoll.de/static/fonts/BundesSansWeb-Regular.eot');
+  src: url('https://www.zoll.de/static/fonts/BundesSansWeb-Regular.eot?#iefix') format('embedded-opentype'), url('https://www.zoll.de/static/fonts/BundesSansWeb-Regular.woff') format('woff'), url('https://www.zoll.de/static/fonts/BundesSansWeb-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "bundessansweb";
+  src: url('https://www.zoll.de/static/fonts/BundesSansWeb-Bold.eot');
+  src: url('https://www.zoll.de/static/fonts/BundesSansWeb-Bold.eot?#iefix') format('embedded-opentype'), url('https://www.zoll.de/static/fonts/BundesSansWeb-Bold.woff') format('woff'), url('https://www.zoll.de/static/fonts/BundesSansWeb-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "bundessansweb";
+  src: url('https://www.zoll.de/static/fonts/BundesSansWeb-BoldItalic.eot');
+  src: url('https://www.zoll.de/static/fonts/BundesSansWeb-BoldItalic.eot?#iefix') format('embedded-opentype'), url('https://www.zoll.de/static/fonts/BundesSansWeb-BoldItalic.woff') format('woff'), url('https://www.zoll.de/static/fonts/BundesSansWeb-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: "bundessansweb";
+  src: url('https://www.zoll.de/static/fonts/BundesSansWeb-Italic.eot');
+  src: url('https://www.zoll.de/static/fonts/BundesSansWeb-Italic.eot?#iefix') format('embedded-opentype'), url('https://www.zoll.de/static/fonts/BundesSansWeb-Italic.woff') format('woff'), url('https://www.zoll.de/static/fonts/BundesSansWeb-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}

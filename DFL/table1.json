@@ -1,0 +1,164 @@
+[
+    {
+        "pos": 1,
+        "id": "BVB",
+        "club": "Borussia Dortmund",
+        "logo": "https://raw.githubusercontent.com/stefandier/public/main/BVB.png",
+        "md": 34,
+        "gd": 452,
+        "pts": 158
+    },
+    {
+        "pos": 2,
+        "id": "B04",
+        "club": "Bayer 04 Leverkusen",
+        "logo": "https://raw.githubusercontent.com/stefandier/public/main/B04.png",
+        "md": 34,
+        "gd": 465,
+        "pts": 155
+    },
+    {
+        "pos": 3,
+        "id": "BMG",
+        "club": "Borussia M'Gladbach",
+        "logo": "https://raw.githubusercontent.com/stefandier/public/main/BMG.png",
+        "md": 34,
+        "gd": 442,
+        "pts": 154
+    },
+    {
+        "pos": 4,
+        "id": "WOB",
+        "club": "VFL Wolfsburg",
+        "logo": "https://raw.githubusercontent.com/stefandier/public/main/WOB.png",
+        "md": 34,
+        "gd": 454,
+        "pts": 153
+    },
+    {
+        "pos": 5,
+        "id": "SGE",
+        "club": "Eintracht Frankfurt",
+        "logo": "https://raw.githubusercontent.com/stefandier/public/main/SGE.png",
+        "md": 34,
+        "gd": 399,
+        "pts": 152
+    },
+    {
+        "pos": 6,
+        "id": "BOC",
+        "club": "VFL Bochum 1848",
+        "logo": "https://raw.githubusercontent.com/stefandier/public/main/BOC.png",
+        "md": 34,
+        "gd": 452,
+        "pts": 150
+    },
+    {
+        "pos": 7,
+        "id": "SCF",
+        "club": "SC Freiburg",
+        "logo": "https://raw.githubusercontent.com/stefandier/public/main/SCF.png",
+        "md": 34,
+        "gd": 446,
+        "pts": 150
+    },
+    {
+        "pos": 8,
+        "id": "FCA",
+        "club": "FC Augsburg",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": 452,
+        "pts": 146
+    },
+    {
+        "pos": 9,
+        "id": "FCU",
+        "club": "1. FC Union Berlin",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": 44,
+        "pts": 111
+    },
+    {
+        "pos": 10,
+        "id": "TSG",
+        "club": "TSG Hoffenheim",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": 8,
+        "pts": 107
+    },
+    {
+        "pos": 11,
+        "id": "M05",
+        "club": "1. FSV Mainz 05",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": -12,
+        "pts": 101
+    },
+    {
+        "pos": 12,
+        "id": "HDH",
+        "club": "Hertha Berlin",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": 0,
+        "pts": 99
+    },
+    {
+        "pos": 13,
+        "id": "FCB",
+        "club": "FC Bayern München",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": -666,
+        "pts": 94
+    },
+    {
+        "pos": 14,
+        "id": "RBL",
+        "club": "RB Leipzig",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": -65,
+        "pts": 93
+    },
+    {
+        "pos": 15,
+        "id": "VFB",
+        "club": "VFB Stuttgart",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": -111,
+        "pts": 92
+    },
+    {
+        "pos": 16,
+        "id": "KOE",
+        "club": "1. FC Köln",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": -122,
+        "pts": 91
+    },
+    {
+        "pos": 17,
+        "id": "SVW",
+        "club": "SPVGG Greuther Fürth",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": -134,
+        "pts": 89
+    },
+    {
+        "pos": 18,
+        "id": "SVD",
+        "club": "Arminia Bielefeld",
+        "logo": "file:///Users/stfn/Public/BVB.png",
+        "md": 34,
+        "gd": -128,
+        "pts": 87
+    }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PutDataRequest RequestId="b090bcc3-efdf-42a9-b894-959cd45d681f" MessageTime="2023-09-25T07:48:49.876+00:00" TransmissionComplete="true" TransmissionSuspended="false">
+  <Tables>
+      <Table Type="liveTable" Competition="Bundesliga" CompetitionId="DFL-COM-000001" Datetime="2023-09-25T07:48:49.870+00:00" MatchDay="5" MatchDayId="DFL-DAY-004C3L" Season="2023/2024" SeasonId="DFL-SEA-0001K7">
+          <Entry Position="1" Club="FC Bayern München" ClubId="DFL-CLU-00000G" GamesPlayed="5" Wins="4" Draws="1" Losses="0" GoalsScored="18" GoalsAgainst="4" GoalsDifference="14" Points="13" Qualification="CL" Tendency="up"/>
+          <Entry Position="2" Club="Bayer 04 Leverkusen" ClubId="DFL-CLU-00000B" GamesPlayed="5" Wins="4" Draws="1" Losses="0" GoalsScored="17" GoalsAgainst="6" GoalsDifference="11" Points="13" Qualification="CL" Tendency="down"/>
+          <Entry Position="3" Club="VfB Stuttgart" ClubId="DFL-CLU-00000D" GamesPlayed="5" Wins="4" Draws="0" Losses="1" GoalsScored="17" GoalsAgainst="7" GoalsDifference="10" Points="12" Qualification="CL" Tendency="up"/>
+          <Entry Position="4" Club="RB Leipzig" ClubId="DFL-CLU-000017" GamesPlayed="5" Wins="4" Draws="0" Losses="1" GoalsScored="14" GoalsAgainst="4" GoalsDifference="10" Points="12" Qualification="CL" Tendency="down"/>
+          <Entry Position="5" Club="TSG Hoffenheim" ClubId="DFL-CLU-000002" GamesPlayed="5" Wins="4" Draws="0" Losses="1" GoalsScored="12" GoalsAgainst="6" GoalsDifference="6" Points="12" Qualification="EL" Tendency="stable"/>
+          <Entry Position="6" Club="Borussia Dortmund" ClubId="DFL-CLU-000007" GamesPlayed="5" Wins="3" Draws="2" Losses="0" GoalsScored="9" GoalsAgainst="5" GoalsDifference="4" Points="11" Qualification="ECL Qual." Tendency="up"/>
+          <Entry Position="7" Club="VfL Wolfsburg" ClubId="DFL-CLU-000003" GamesPlayed="5" Wins="3" Draws="0" Losses="2" GoalsScored="7" GoalsAgainst="6" GoalsDifference="1" Points="9" Qualification="" Tendency="down"/>
+          <Entry Position="8" Club="Eintracht Frankfurt" ClubId="DFL-CLU-00000F" GamesPlayed="5" Wins="1" Draws="4" Losses="0" GoalsScored="4" GoalsAgainst="3" GoalsDifference="1" Points="7" Qualification="" Tendency="up"/>
+          <Entry Position="9" Club="Sport-Club Freiburg" ClubId="DFL-CLU-00000A" GamesPlayed="5" Wins="2" Draws="1" Losses="2" GoalsScored="5" GoalsAgainst="10" GoalsDifference="-5" Points="7" Qualification="" Tendency="up"/>
+          <Entry Position="10" Club="1. FC Union Berlin" ClubId="DFL-CLU-00000V" GamesPlayed="5" Wins="2" Draws="0" Losses="3" GoalsScored="9" GoalsAgainst="9" GoalsDifference="0" Points="6" Qualification="" Tendency="down"/>
+          <Entry Position="11" Club="SV Werder Bremen" ClubId="DFL-CLU-00000E" GamesPlayed="5" Wins="2" Draws="0" Losses="3" GoalsScored="8" GoalsAgainst="10" GoalsDifference="-2" Points="6" Qualification="" Tendency="up"/>
+          <Entry Position="12" Club="FC Augsburg" ClubId="DFL-CLU-000010" GamesPlayed="5" Wins="1" Draws="2" Losses="2" GoalsScored="9" GoalsAgainst="13" GoalsDifference="-4" Points="5" Qualification="" Tendency="up"/>
+          <Entry Position="13" Club="1. FC Heidenheim 1846" ClubId="DFL-CLU-000018" GamesPlayed="5" Wins="1" Draws="1" Losses="3" GoalsScored="9" GoalsAgainst="13" GoalsDifference="-4" Points="4" Qualification="" Tendency="down"/>
+          <Entry Position="14" Club="VfL Bochum 1848" ClubId="DFL-CLU-00000S" GamesPlayed="5" Wins="0" Draws="3" Losses="2" GoalsScored="4" GoalsAgainst="16" GoalsDifference="-12" Points="3" Qualification="" Tendency="down"/>
+          <Entry Position="15" Club="Borussia Mönchengladbach" ClubId="DFL-CLU-000004" GamesPlayed="5" Wins="0" Draws="2" Losses="3" GoalsScored="8" GoalsAgainst="13" GoalsDifference="-5" Points="2" Qualification="" Tendency="down"/>
+          <Entry Position="16" Club="1. FC Köln" ClubId="DFL-CLU-000008" GamesPlayed="5" Wins="0" Draws="1" Losses="4" GoalsScored="4" GoalsAgainst="9" GoalsDifference="-5" Points="1" Qualification="Relegation" Tendency="stable"/>
+          <Entry Position="17" Club="SV Darmstadt 98" ClubId="DFL-CLU-000016" GamesPlayed="5" Wins="0" Draws="1" Losses="4" GoalsScored="6" GoalsAgainst="16" GoalsDifference="-10" Points="1" Qualification="Abstieg" Tendency="stable"/>
+          <Entry Position="18" Club="1. FSV Mainz 05" ClubId="DFL-CLU-000006" GamesPlayed="5" Wins="0" Draws="1" Losses="4" GoalsScored="4" GoalsAgainst="14" GoalsDifference="-10" Points="1" Qualification="Abstieg" Tendency="stable"/>
+      </Table>
+  </Tables>
+</PutDataRequest>
